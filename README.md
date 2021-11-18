@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Meriegg
 - 👀 I’m interested in music and programming
-- 🌱 I’m currently learning c# and python
+- 🌱 I’m currently learning the MERN stack

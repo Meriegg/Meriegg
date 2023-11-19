@@ -1,5 +1,5 @@
 <h1 align="center">Yoooo, I'm Mario</h1>  
-<h3 align="center">A 14 year old Full Stack developer based in Romania.</h3>  
+<h3 align="center">A 15 year old Full Stack developer based in Romania.</h3>  
   
 - 🔭 I’m currently working on [Hotello](https://github.com/Meriegg/hotello-demo)  
   

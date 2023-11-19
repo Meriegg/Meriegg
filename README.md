@@ -1,9 +1,9 @@
 <h1 align="center">Yoooo, I'm Mario</h1>  
 <h3 align="center">A 14 year old Full Stack developer based in Romania.</h3>  
   
-- 🔭 I’m currently working on [Notr](https://github.com/Meriegg/notr)  
+- 🔭 I’m currently working on [Hotello](https://github.com/Meriegg/hotello-demo)  
   
-- 🌱 I’m currently learning **Next.js 13 app directory**  
+- 🌱 I’m currently learning **Next.js 14 server components**  
   
 - 👨‍💻 All of my projects are available at [https://mariodev.vercel.app](https://mariodev.vercel.app)  
   

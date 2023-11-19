@@ -14,8 +14,7 @@
 - 📫 How to reach me **mario.developer.contact@gmail.com**  
   
 <h3 align="center">Get in touch:</h3>  
-<p align="center">  
-<a href="https://twitter.com/mario_dev14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mario_dev14" height="30" width="40" /></a>  
+<p align="center">
 <a href="https://instagram.com/meriofrog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meriofrog" height="30" width="40" /></a>  
 </p>  
   
